@@ -1,4 +1,4 @@
-# sql-challenge - Employee Database: A Mystery in Three Parts
+# sql-challenge - Employee Database: A Mystery in Two Parts
 Lennox Nguyen's submission on sql-challenge 
 
 # Background
